@@ -1,5 +1,9 @@
 ## Normal Developer 👋
-
+                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)        
+<a href="https://hits.seeyoufarm.com">
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2kimjh85&count_bg=%23333333&title_bg=%23FC4F59&icon=&icon_color=%23FC4F59&title=hits&edge_flat=false)](https://hits.seeyoufarm.com"/>
+</a>
+                                                
 <!--
 **kimjh85/kimjh85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
